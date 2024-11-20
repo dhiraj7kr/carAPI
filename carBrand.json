@@ -1,5 +1,4 @@
-{
-  "cars": [
+[
     {
       "brand": "Tesla",
       "model": "Model S",
@@ -91,4 +90,4 @@
       "image": "https://english.mathrubhumi.com/image/contentid/policy:1.9996860:1729229837/f80.jpg?$p=95770c7&f=16x10&w=852&q=0.8"
     }
   ]
-}
+
